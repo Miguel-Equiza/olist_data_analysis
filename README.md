@@ -12,7 +12,6 @@ By exploring key factors such as seller performance, product catalog, and custom
 
 The primary objective of this analysis is to understand the factors influencing Olist's profits and to provide recommendations for increasing profitability. This involves exploring the seller and product dynamics and identifying key drivers that affect revenue and profit margins.
 
----
 
 ## Dataset
 
@@ -22,7 +21,7 @@ The dataset consists of approximately 100,000 orders placed between 2016 and 201
 2. **Seller performance**.
 3. **Product details**.
 
----
+
 
 ## Methodology
 
