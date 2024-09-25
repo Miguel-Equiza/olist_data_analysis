@@ -6,7 +6,7 @@
 This project aims to analyze how Olist, a leading e-commerce service in Brazil, can increase its profits. Olist connects merchants to major marketplaces and offers various services, including inventory management, handling customer reviews, and logistics. Olist charges sellers a progressive monthly fee based on their volume of orders.
 
 By exploring key factors such as seller performance, product catalog, and customer feedback, this analysis uncovers actionable insights to enhance profitability.
----
+
 
 ## Objective
 
